@@ -1,2 +1,2 @@
 # PoliMeme
-Dataset for Official paper "PoliMeme: Exploring Offensive Meme Propagation in the Israel-Palestine Conflict"
+To access the dataset, please drop a mail to prathamgrover777@gmail.com 
